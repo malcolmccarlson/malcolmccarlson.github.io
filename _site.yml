@@ -1,0 +1,12 @@
+name: "MCC Website"
+navbar:
+  title: "Malcolm Carlson's Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: aboutme.html
+    - text: "Craft Beer Case Study"
+      href: casestudy1.html
+    - text: "Employee Case Study"
+      href: CaseStudy2.html
